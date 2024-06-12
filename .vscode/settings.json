@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "EDA",
-        "model"
+        "model",
+        "time series"
     ]
 }
